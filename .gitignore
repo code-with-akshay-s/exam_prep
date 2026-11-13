@@ -1,0 +1,12 @@
+# Compiled C programs
+*.exe
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+
+# VS Code workspace settings
+.vscode/
